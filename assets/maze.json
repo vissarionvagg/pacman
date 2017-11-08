@@ -1,3 +1,5 @@
+$ npm install phaser-ce
+
 { "height":15,
  "layers":[
         {
